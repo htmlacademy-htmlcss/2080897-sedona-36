@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Степанов](https://up.htmlacademy.ru/htmlcss/36/user/2080897).
-* Наставник: `Aлександр Румянцев.(https://htmlacademy.ru/profile/id1521451).
+* Наставник: [Aлександр Румянцев](https://htmlacademy.ru/profile/id1521451).
 
 ---
 
